@@ -1,0 +1,21 @@
+{
+  "featured_countries": [
+    "Netherlands",
+    "United States",
+    "Japan",
+    "Germany",
+    "Switzerland"
+  ],
+  "scan_mode": "smart",
+  "scan_timeout": 2.0,
+  "probe_count": 3,
+  "proton_settings": {
+    "routing_mode": "all",
+    "netshield_level": 0,
+    "moderate_nat": false,
+    "nat_pmp": false,
+    "vpn_accelerator": true,
+    "key_name": "1",
+    "bouncing": 14
+  }
+}

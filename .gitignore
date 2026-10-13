@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# User credentials, sensitive files & scan caches
+user_settings.json
+*.conf
+*.ovpn
+scan_cache.json
+scan_cache_proton.json
+proton_intercepted.json
+*.zip
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
